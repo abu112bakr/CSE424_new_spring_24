@@ -1,0 +1,8 @@
+,Actinic_keratosis_or_intraepithelial_carcinoma,Basal_cell_carcinoma,Benign_keratosis_like_lesion,Dermatofibroma,Melanocytic_nevi,Melanoma,Vascular_lesion
+Actinic_keratosis_or_intraepithelial_carcinoma,31,58,157,0,61,19,1
+Basal_cell_carcinoma,15,292,92,0,98,6,11
+Benign_keratosis_like_lesion,7,22,622,0,434,11,3
+Dermatofibroma,2,34,29,0,47,3,0
+Melanocytic_nevi,0,35,176,0,6438,40,16
+Melanoma,0,7,258,0,690,149,9
+Vascular_lesion,1,6,1,0,10,2,122

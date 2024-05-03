@@ -1,0 +1,15 @@
+Test Accuracy,Classification Report
+82.69595503807068,"                                                precision    recall  f1-score   support
+
+Actinic_keratosis_or_intraepithelial_carcinoma       1.00      0.16      0.27       327
+                          Basal_cell_carcinoma       0.88      0.66      0.75       514
+                  Benign_keratosis_like_lesion       0.54      0.87      0.67      1099
+                                Dermatofibroma       0.78      0.66      0.71       115
+                              Melanocytic_nevi       0.94      0.90      0.92      6705
+                                      Melanoma       0.61      0.63      0.62      1113
+                               Vascular_lesion       0.91      0.90      0.91       142
+
+                                      accuracy                           0.83     10015
+                                     macro avg       0.81      0.68      0.69     10015
+                                  weighted avg       0.86      0.83      0.83     10015
+"
