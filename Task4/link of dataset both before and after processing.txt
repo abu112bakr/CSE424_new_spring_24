@@ -1,0 +1,3 @@
+Before processing: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+After  Processing: https://drive.google.com/file/d/1KFpet4wrCnUK-VWFZ-cdgqKtDs0sXgqh/view?usp=sharing
+Alternate    link: https://drive.google.com/file/d/1gIDQxHVAVAeqIvuWhXvU3r-LoLFz8ge5/view?usp=sharing
